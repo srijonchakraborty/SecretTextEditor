@@ -1,0 +1,14 @@
+c:\users\srijon chakraborty\documents\visual studio 2013\Projects\MediaFileFormatTry\MediaFileFormatTry\obj\Debug\MediaFileFormatTry.Form1.resources
+c:\users\srijon chakraborty\documents\visual studio 2013\Projects\MediaFileFormatTry\MediaFileFormatTry\obj\Debug\MediaFileFormatTry.Properties.Resources.resources
+c:\users\srijon chakraborty\documents\visual studio 2013\Projects\MediaFileFormatTry\MediaFileFormatTry\obj\Debug\MediaFileFormatTry.csproj.GenerateResource.Cache
+c:\users\srijon chakraborty\documents\visual studio 2013\Projects\MediaFileFormatTry\MediaFileFormatTry\obj\Debug\MediaFileFormatTry.Form2.resources
+c:\users\srijon chakraborty\documents\visual studio 2013\Projects\MediaFileFormatTry\MediaFileFormatTry\obj\Debug\MediaFileFormatTry.Form3.resources
+C:\Users\Srijon Chakraborty\documents\visual studio 2013\Projects\MediaFileFormatTry\MediaFileFormatTry\bin\Debug\Secret Text Editor.exe.config
+C:\Users\Srijon Chakraborty\documents\visual studio 2013\Projects\MediaFileFormatTry\MediaFileFormatTry\bin\Debug\Secret Text Editor.exe
+C:\Users\Srijon Chakraborty\documents\visual studio 2013\Projects\MediaFileFormatTry\MediaFileFormatTry\bin\Debug\Secret Text Editor.pdb
+C:\Users\Srijon Chakraborty\documents\visual studio 2013\Projects\MediaFileFormatTry\MediaFileFormatTry\obj\Debug\Secret Text Editor.exe
+C:\Users\Srijon Chakraborty\documents\visual studio 2013\Projects\MediaFileFormatTry\MediaFileFormatTry\obj\Debug\Secret Text Editor.pdb
+C:\Users\Srijon Chakraborty\documents\visual studio 2013\Projects\MediaFileFormatTry\MediaFileFormatTry\obj\Debug\MediaFileFormatTry.csprojResolveAssemblyReference.cache
+G:\My Project Works\(STE)MediaFileFormatTry\MediaFileFormatTry\MediaFileFormatTry\bin\Debug\Secret Text Editor.exe.config
+G:\My Project Works\(STE)MediaFileFormatTry\MediaFileFormatTry\MediaFileFormatTry\obj\Debug\Secret Text Editor.exe
+G:\My Project Works\(STE)MediaFileFormatTry\MediaFileFormatTry\MediaFileFormatTry\obj\Debug\Secret Text Editor.pdb
